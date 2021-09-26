@@ -8,7 +8,7 @@
 2. com.tencent.nanodetncnn-debug.apk是导出的app安装包，可以直接使用，在某些手机上CPU可能会有问题，GPU问题会少一点
 
 ### 文章详解
-知乎：(编写中)
+知乎：https://zhuanlan.zhihu.com/p/414184712
 
 ### 效果预览
 ![image](https://github.com/EdVince/PiDiNet-NCNN/blob/main/test.jpg)
